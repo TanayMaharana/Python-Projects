@@ -11,11 +11,13 @@ The task is to create a program that checks the validity of a user-provided pass
 
 ## **Password Criteria:**
 
-- **Minimum Length:** The password should have minimum 8 characters.
+- **Minimum Length:** The password should have at least 8 characters.
 - **Combination of Character Types:** The password should include a mix of uppercase letters, lowercase letters, digits, and symbols.
 - **Blank Space:** The password should not contain any blank space.
-- **First Letter:** The password should begin with a capital letter only.
+- **First Letter:** The password should only begin with a capital letter.
 """
+
+                                                      ## CODE BODY ##
 
 string = input("Please enter a password: \n")
 
@@ -44,7 +46,7 @@ Numbers.append("0")
 
 Symbols = ["!", "@", "#", "$", "%", "^", "&", "*"]
 
-## 2nd part (Counting the total characters in string)
+## 2nd part (Counting the total characters in the string)
 
 for characters in string:
     count += 1
@@ -87,7 +89,7 @@ else:
 if isNum == 1:
     criteria += 1
 else:
-    print("Password Invalid : Not alphanumberic")
+    print("Password Invalid : Not alphanumeric")
 if Haveblank == 0:
     criteria += 1
 else:
