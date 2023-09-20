@@ -1,1 +1,24 @@
+## Introduction:
 
+The Password Validator Program is a beginner-friendly program designed to validate user passwords based on certain criteria. This capstone document outlines the development process of the Password Validator Program, providing a comprehensive guide on its implementation and functionality.
+
+## Problem Statement:
+
+The task is to create a program that checks the validity of a user-provided password. The program should apply specific rules and criteria to determine whether the given password meets the required security standards.
+
+# The main task is to check whether the given password satisfies all the conditions or not. The program can be something like this:
+
+- Variables creation
+- Loop to count the number of characters in password.
+- Check if the first character is capital or not.
+- Check if the password contains number or not
+- Check if the password contains blank space.
+- Check if the password has special characters in it or not.
+- Validate all the conditions to give the final result.
+
+## Password Criteria:
+
+- Minimum Length: The password should have minimum 8 characters.
+- Combination of Character Types: The password should include a mix of uppercase letters, lowercase letters, digits, and symbols.
+- Blank Space: The password should not contain any blank space.
+- First Letter: The password should begin with a capital letter only.
