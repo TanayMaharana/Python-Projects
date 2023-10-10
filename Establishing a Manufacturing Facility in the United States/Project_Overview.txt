@@ -1,1 +1,33 @@
+## Establishing a Car Manufacturing Facility in the United States
 
+## Overview:
+The establishment of a manufacturing facility in the United States is pursued by XYZ Motors, a prominent automobile company, with the objective of positioning itself as a strong contender against well-established American and European car manufacturers. The primary focus of this project is to undertake a comprehensive analysis of the critical factors affecting car pricing within the American market.
+
+## Introduction:
+In this ambitious Capstone project, a journey is undertaken to explore the intricacies of the American automobile market, with a particular emphasis on deciphering the myriad of factors influencing car pricing. Equipped with data and an array of powerful data manipulation and analysis tools, the aim is to uncover hidden patterns, trends, and insights that will set the stage for XYZ Motors' success in this new and competitive landscape.
+
+## Concepts Utilized:
+Numpy Array operations, including arithmetic operations and broadcasting, have been employed.
+Data has been stored in Pandas DataFrames.
+Data importation from files such as CSV and Excel has been executed.
+Data cleaning and preprocessing have been performed.
+Data filtering based on conditional selection criteria has been applied.
+Pandas has been used for data manipulation.
+
+## Summary:
+Through the meticulous examination of categorical variables and their correlation with 'price,' valuable insights have been revealed. These insights provide a nuanced understanding of how attributes such as fuel type, aspiration, car body style, and drivetrain influence car pricing in the American market.
+
+Factors with a significant impact on car prices:
+
+Factors     Coefficient     Impact
+
+Wheelbase     0.553529  -- Positive
+Car length    0.683837  -- Positive
+Car width     0.702964  -- Positive
+Curb weight   0.785020  -- Positive
+Engine size   0.708287  -- Positive
+Bore ratio    0.515868  -- Positive
+Horsepower    0.718771  -- Positive
+City MPG     -0.681929  -- Negative
+Highway MPG  -0.675603  -- Negative
+Price         1.000000
