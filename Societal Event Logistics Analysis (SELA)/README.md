@@ -1,6 +1,7 @@
 # Housing Society Data Analysis Project
 
-![Custom Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fadda.io%2Fblog%2F2022%2F10%2Fcommunity-events-guide%2F&psig=AOvVaw2SDeEVue5bvNnyHiHKW288&ust=1700400998381000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDRsb_VzYIDFQAAAAAdAAAAABAE)
+![Community-Events-Guide-for-Residential-Communities-1024x536](https://github.com/TanayMaharana/Python-Projects/assets/105596561/e0797d7a-52cf-477a-ab1e-e631321b3aaf)
+
 
 ## Problem Statement
 
